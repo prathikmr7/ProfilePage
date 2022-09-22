@@ -10,13 +10,13 @@
 <header>
  <nav>
   <ul>
-   <li><a href="https://FresherProfiles.com">My profile</a></li>
+   <li><a href="https://FresherProfiles.com">Prathik profile</a></li>
    <li><a href="https://fresherprofiles.com/web/student">Profile Builder</a></li>
   </ul>
  </nav>
 </header>
 <div id="center">
-<div id="center-set"> - By Prathik M R 7th sem CSE,BIET
+<div id="center-set"> - By Prathik M R 7th sem CSE
 <div id="signup">
 <div id="signup-st">
 <div align="center">
